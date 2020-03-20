@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tab-list {
+  border-bottom: 3px solid #96adc8;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+  font-family: "Lexend Deca";
+  float: none;
+}
+
+.tab-list-active {
+  background-color: #96adc8;
+  border: solid #96adc8;
+  border-width: 1px 1px 0 1px;
+}
+
+h1 {
+  font-family: "Lexend Deca";
+}
+
+#headingBG {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  align-content: center;
+}
+
+#contentBG {
+  background-color: #96adc8;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
